@@ -2,5 +2,6 @@
 Desafio GIT-GITHUB
 
 ## LINK PARA TIRAR DUVIDAS SOBRE O MARKDOWN(MD)
+[Sintaxe Basica do Markdown] (https://www.markdownguide.org/)
 
 # REPOSITORIO EXEMPLO...
